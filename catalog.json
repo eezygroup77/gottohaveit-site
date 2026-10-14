@@ -341,6 +341,43 @@
     }
    ],
    "category": "Travel"
+  },
+  {
+   "number": 11,
+   "title": "Girly Must-Haves",
+   "category": "Beauty",
+   "products": [
+    {
+     "name": "Heated Eyelash Curler",
+     "asin": "B0GT4C7XGL",
+     "image": "https://m.media-amazon.com/images/I/51B0qkonxhL._AC_SY300_SX300_QL70_ML2_.jpg",
+     "price": "$19.99"
+    },
+    {
+     "name": "Revlon One-Step Volumizer",
+     "asin": "B01LSUQSB0",
+     "image": "https://m.media-amazon.com/images/I/61SrWfdHa1L._AC_SY300_SX300_QL70_ML2_.jpg",
+     "price": "$49.97"
+    },
+    {
+     "name": "Heatless Curls Set",
+     "asin": "B09S4PVZ81",
+     "image": "https://m.media-amazon.com/images/I/41hU99BsFPL._AC_SY300_SX300_QL70_ML2_.jpg",
+     "price": "$13.99"
+    },
+    {
+     "name": "Makeup Brush Cleaner",
+     "asin": "B07GDH5XKF",
+     "image": "https://m.media-amazon.com/images/I/41my9Nvli5L._AC_SY300_SX300_QL70_ML2_.jpg",
+     "price": "$21.99"
+    },
+    {
+     "name": "Ultrasonic Jewelry Cleaner",
+     "asin": "B08LN5Z9WH",
+     "image": "https://m.media-amazon.com/images/I/41pps6FGm4L._AC_SY300_SX300_QL70_ML2_.jpg",
+     "price": "$26.99"
+    }
+   ]
   }
  ]
 }
