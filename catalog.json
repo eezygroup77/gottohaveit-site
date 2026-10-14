@@ -1,0 +1,346 @@
+{
+ "brand": "Gottohaveit",
+ "affiliateTag": "gottohaveit77-20",
+ "collections": [
+  {
+   "number": 1,
+   "title": "Clever Kitchen Finds",
+   "products": [
+    {
+     "name": "Egg Timer",
+     "asin": "B0G529BV1C",
+     "image": "https://m.media-amazon.com/images/I/51UYxkb8WjL._AC_SY300_SX300_QL70_ML2_.jpg",
+     "price": "$15.99"
+    },
+    {
+     "name": "Foam Soap Dispenser",
+     "asin": "B0CPD8K84D",
+     "image": "https://m.media-amazon.com/images/I/51xkpWBP2BL._AC_SY300_SX300_QL70_ML2_.jpg",
+     "price": "$23.49"
+    },
+    {
+     "name": "Whisk Wiper PRO",
+     "asin": "B0H2NM9ZQW",
+     "image": "https://m.media-amazon.com/images/I/61GIs7YpfkL._AC_SY300_SX300_QL70_ML2_.jpg",
+     "price": "$34.95"
+    },
+    {
+     "name": "Adjustable Measuring Cup",
+     "asin": "B0DYXWCR2M",
+     "image": "https://m.media-amazon.com/images/I/71ZM7r4jtpL._AC_SY300_SX300_QL70_ML2_.jpg",
+     "price": "$17.49"
+    },
+    {
+     "name": "Easy-Out Cake Pan",
+     "asin": "B09M2G46WJ",
+     "image": "https://m.media-amazon.com/images/I/61lg69e9ARL._AC_SY300_SX300_QL70_ML2_.jpg",
+     "price": "$18.38"
+    }
+   ],
+   "category": "Kitchen"
+  },
+  {
+   "number": 2,
+   "title": "Everyday Helpers & Cozy Gifts",
+   "products": [
+    {
+     "name": "Car Door Handle Assist",
+     "asin": "B0B774BN41",
+     "image": "https://m.media-amazon.com/images/I/51FogpreTuL._AC_SY300_SX300_QL70_ML2_.jpg",
+     "price": "$9.99"
+    },
+    {
+     "name": "Under-Cabinet Jar Opener",
+     "asin": "B000X6K9J8",
+     "image": "https://m.media-amazon.com/images/I/81LVe9y+gqL._AC_SY300_SX300_QL70_ML2_.jpg",
+     "price": "$17.99"
+    },
+    {
+     "name": "Candle Warmer Lamp",
+     "asin": "B0CTJGJL2T",
+     "image": "https://m.media-amazon.com/images/I/810vcJJDrkL._AC_SY300_SX300_QL70_ML2_.jpg",
+     "price": "$17.99"
+    },
+    {
+     "name": "Wearable Blanket Shawl",
+     "asin": "B0DJBGMMCP",
+     "image": "https://m.media-amazon.com/images/I/815TD5w9n2L._AC_SY300_SX300_QL70_ML2_.jpg",
+     "price": "$32.99"
+    },
+    {
+     "name": "Plush Heating Pad",
+     "asin": "B089D3Q24T",
+     "image": "https://m.media-amazon.com/images/I/71JfYBeUjpL._AC_SY300_SX300_QL70_ML2_.jpg",
+     "price": "$49.99"
+    }
+   ],
+   "category": "Home & Gifts"
+  },
+  {
+   "number": 3,
+   "title": "Travel Finds",
+   "products": [
+    {
+     "name": "Compression Packing Cubes",
+     "asin": "B0FH9QS56B",
+     "image": "https://m.media-amazon.com/images/I/81rWywidwNL._AC_SY300_SX300_QL70_ML2_.jpg",
+     "price": "$21.99"
+    },
+    {
+     "name": "Travel Jewelry Case",
+     "asin": "B0DN1812XQ",
+     "image": "https://m.media-amazon.com/images/I/81Od5mGE0uL._AC_SY300_SX300_QL70_ML2_.jpg",
+     "price": "$11.99"
+    },
+    {
+     "name": "Hanging Toiletry Bag",
+     "asin": "B0CMLFBTHK",
+     "image": "https://m.media-amazon.com/images/I/41RtH9n-rWL._SY300_SX300_QL70_ML2_.jpg",
+     "price": "$12.99"
+    },
+    {
+     "name": "Mini Power Bank 10000mAh",
+     "asin": "B0CB1FW5FC",
+     "image": "https://m.media-amazon.com/images/I/71gH0eRJcFL._AC_SY300_SX300_QL70_ML2_.jpg",
+     "price": "$21.99"
+    },
+    {
+     "name": "Handheld Travel Steamer",
+     "asin": "B0FT7NWBBK",
+     "image": "https://m.media-amazon.com/images/I/71RpXydv3yL._AC_SY300_SX300_QL70_ML2_.jpg",
+     "price": "$22.99"
+    }
+   ],
+   "category": "Travel"
+  },
+  {
+   "number": 4,
+   "title": "Kitchen Shortcuts",
+   "products": [
+    {
+     "name": "Egg & Strawberry Slicer",
+     "asin": "B09KGQ1PKJ",
+     "image": "https://m.media-amazon.com/images/I/81vmI2umlvL._AC_SY300_SX300_QL70_ML2_.jpg",
+     "price": "$8.99"
+    },
+    {
+     "name": "Mueller 10-in-1 Vegetable Chopper",
+     "asin": "B08N9Q24M9",
+     "image": "https://m.media-amazon.com/images/I/81+tBoD7McL._AC_SY300_SX300_QL70_ML2_.jpg",
+     "price": "$26.99"
+    },
+    {
+     "name": "Stasher Paper Sandwich Bags (50)",
+     "asin": "B0GW9LGWWK",
+     "image": "https://m.media-amazon.com/images/I/71PEfLruJmL._AC_SY300_SX300_QL70_ML2_.jpg",
+     "price": "$10.51"
+    },
+    {
+     "name": "Zulay 2-in-1 Lemon Squeezer",
+     "asin": "B00YBP918M",
+     "image": "https://m.media-amazon.com/images/I/71UUDhBLzOL._AC_SY300_SX300_QL70_ML2_.jpg",
+     "price": "$14.99"
+    },
+    {
+     "name": "Chicken Shredder Twist 11 inch",
+     "asin": "B0B1X2X9HF",
+     "image": "https://m.media-amazon.com/images/I/71mCszsILtL._AC_SY300_SX300_QL70_ML2_.jpg",
+     "price": "$24.99"
+    }
+   ],
+   "category": "Kitchen"
+  },
+  {
+   "number": 5,
+   "title": "Bathroom Finds",
+   "products": [
+    {
+     "name": "Hands-Free Dryer Holder",
+     "asin": "B0F3DG6KD7",
+     "image": "https://m.media-amazon.com/images/I/41EYavIQToL._AC_SY300_SX300_QL70_ML2_.jpg",
+     "price": "$9.95"
+    },
+    {
+     "name": "Waterproof Shower Phone Holder",
+     "asin": "B0C984YB4M",
+     "image": "https://m.media-amazon.com/images/I/71thiiyD0cL._AC_SY300_SX300_QL70_ML2_.jpg",
+     "price": "$13.99"
+    },
+    {
+     "name": "UV Toilet Lid Light",
+     "asin": "B0GT3ZSMQ4",
+     "image": "https://m.media-amazon.com/images/I/61ANjpRxx1L._AC_SY300_SX300_QL70_ML2_.jpg",
+     "price": "$49.99"
+    },
+    {
+     "name": "Broom & Mop Wall Rack",
+     "asin": "B09VG87SKL",
+     "image": "https://m.media-amazon.com/images/I/71SHSEX2KJL._AC_SY300_SX300_QL70_ML2_.jpg",
+     "price": "$16.95"
+    },
+    {
+     "name": "Suction Shower Head Holder",
+     "asin": "B01ASX06XE",
+     "image": "https://m.media-amazon.com/images/I/71R0aa6ZSvL._AC_SY300_SX300_QL70_ML2_.jpg",
+     "price": "$14.99"
+    }
+   ],
+   "category": "Bathroom"
+  },
+  {
+   "number": 6,
+   "title": "Luxe or Less · $895 Judith Leiber vs $26 Satin Clutch",
+   "content_id": "3V-LUXE-20261007-001",
+   "products": [
+    {
+     "name": "Judith Leiber Couture",
+     "asin": "B0F9LPZ6P6",
+     "image": "https://m.media-amazon.com/images/I/81xVDOeKBQL._AC_SY300_SX300_QL70_ML2_.jpg",
+     "tier": "luxe",
+     "price": "$895"
+    },
+    {
+     "name": "Mulian LilY Satin Clutch",
+     "asin": "B0838JH7XG",
+     "image": "https://m.media-amazon.com/images/I/71ajv9QPEwL._AC_SY300_SX300_QL70_ML2_.jpg",
+     "tier": "less",
+     "price": "$25.99"
+    }
+   ],
+   "category": "Luxe or Less"
+  },
+  {
+   "number": 7,
+   "title": "Holiday Gift Lamps",
+   "products": [
+    {
+     "name": "Peacock Wall Lamp",
+     "asin": "B0DSB9W7G9",
+     "image": "https://m.media-amazon.com/images/I/71HRUb0F6vL._AC_SY300_SX300_QL70_ML2_.jpg",
+     "price": "$18.99"
+    },
+    {
+     "name": "Fairy Light Spirit Tree",
+     "asin": "B0BQBCX35C",
+     "image": "https://m.media-amazon.com/images/I/71OXwsJyuKL._AC_SY300_SX300_QL70_ML2_.jpg",
+     "price": "$21.99"
+    },
+    {
+     "name": "Forest Tree Lampshade",
+     "asin": "B09NMCDPM8",
+     "image": "https://m.media-amazon.com/images/I/91DacpiLyYL._AC_SY300_SX300_QL70_ML2_.jpg",
+     "price": "$28.99"
+    },
+    {
+     "name": "Chicken Egg Lamp",
+     "asin": "B0CGH2T6TL",
+     "image": "https://m.media-amazon.com/images/I/81hUoGjTeGL._AC_SY300_SX300_QL70_ML2_.jpg",
+     "price": "$21.84"
+    },
+    {
+     "name": "Lily of the Valley Lamp",
+     "asin": "B0DDTPCDLB",
+     "image": "https://m.media-amazon.com/images/I/71HlC2o1fmL._AC_SY300_SX300_QL70_ML2_.jpg",
+     "price": "$38.57"
+    }
+   ],
+   "category": "Holiday Gifts"
+  },
+  {
+   "number": 8,
+   "title": "Luxe or Less · $775 Annoushka vs $28 Baroque Pearl Drops",
+   "content_id": "3V-LUXE-20261010-002",
+   "products": [
+    {
+     "name": "NORVIT Keshi Pearl Drops",
+     "asin": "B0BJTFGRDC",
+     "image": "https://m.media-amazon.com/images/I/61RRPG8JzgL._AC_SL1500_.jpg",
+     "tier": "less",
+     "price": "$27.96"
+    },
+    {
+     "name": "Annoushka",
+     "asin": "B0BNJLM6BX",
+     "image": "https://m.media-amazon.com/images/I/51Osxh1AqBL._AC_SL1500_.jpg",
+     "tier": "luxe",
+     "price": "$775"
+    }
+   ],
+   "category": "Luxe or Less"
+  },
+  {
+   "number": 9,
+   "title": "Cleaning Finds",
+   "products": [
+    {
+     "name": "Drain Deodorizer Sticks",
+     "asin": "B01MZD5LMD",
+     "image": "https://m.media-amazon.com/images/I/61XlpBg7xwL._AC_SY300_SX300_QL70_ML2_.jpg",
+     "price": "$9.98"
+    },
+    {
+     "name": "Hair Drain Snake",
+     "asin": "B089R694YM",
+     "image": "https://m.media-amazon.com/images/I/71A8r9FASZL._AC_SY300_SX300_QL70_ML2_.jpg",
+     "price": "$5.99"
+    },
+    {
+     "name": "The Pink Stuff Cleaning Paste",
+     "asin": "B0GF9VRJLY",
+     "image": "https://m.media-amazon.com/images/I/61r2Iv45u2L._AC_SY300_SX300_QL70_ML2_.jpg",
+     "price": "$5.97"
+    },
+    {
+     "name": "Shower Squeegee with Hook",
+     "asin": "B0F24MHHFD",
+     "image": "https://m.media-amazon.com/images/I/51+jX2Z8MVL._AC_SY300_SX300_QL70_ML2_.jpg",
+     "price": "$21.99"
+    },
+    {
+     "name": "Portable Steam Cleaner",
+     "asin": "B0FR4NZN55",
+     "image": "https://m.media-amazon.com/images/I/710EPs-7hML._AC_SY300_SX300_QL70_ML2_.jpg",
+     "price": "$69.99"
+    }
+   ],
+   "category": "Cleaning"
+  },
+  {
+   "number": 10,
+   "title": "Travel Must-Haves",
+   "products": [
+    {
+     "name": "Digital Luggage Scale",
+     "asin": "B082LYC2TN",
+     "image": "https://m.media-amazon.com/images/I/81TfNMQ2H8L._AC_SY300_SX300_QL70_ML2_.jpg",
+     "price": "$9.86"
+    },
+    {
+     "name": "Airplane Phone Holder",
+     "asin": "B07T8KL6C6",
+     "image": "https://m.media-amazon.com/images/I/71hmWPEGQRL._AC_SY300_SX300_QL70_ML2_.jpg",
+     "price": "$11.99"
+    },
+    {
+     "name": "Leak-Proof Travel Bottles",
+     "asin": "B01GDCKYJ0",
+     "image": "https://m.media-amazon.com/images/I/71rCD20SsiS._AC_SY300_SX300_QL70_ML2_.jpg",
+     "price": "$16.95"
+    },
+    {
+     "name": "Airplane Foot Hammock",
+     "asin": "B07SK6ZFLM",
+     "image": "https://m.media-amazon.com/images/I/91QAqY4j6bL._AC_SY300_SX300_QL70_ML2_.jpg",
+     "price": "$14.95"
+    },
+    {
+     "name": "Foldable Travel Slippers",
+     "asin": "B0F5WH5873",
+     "image": "https://m.media-amazon.com/images/I/51d7gQHgAXL._AC_SY300_SX300_QL70_ML2_.jpg",
+     "price": "$7.99"
+    }
+   ],
+   "category": "Travel"
+  }
+ ]
+}
