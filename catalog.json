@@ -415,6 +415,43 @@
      "price": "$19.79"
     }
    ]
+  },
+  {
+   "number": 13,
+   "title": "Family Winter Closet",
+   "category": "Gifts",
+   "products": [
+    {
+     "name": "Men's Sherpa-Lined Fleece Hoodie",
+     "asin": "B079P9JPML",
+     "image": "https://m.media-amazon.com/images/I/81vUhRnJijL._AC_SY300_SX300_QL70_ML2_.jpg",
+     "price": "$24.80"
+    },
+    {
+     "name": "Women's Sherpa-Lined Fleece Jacket",
+     "asin": "B07FDRQLFB",
+     "image": "https://m.media-amazon.com/images/I/81ttEfEX8fL._AC_SY300_SX300_QL70_ML2_.jpg",
+     "price": "$23.90"
+    },
+    {
+     "name": "Women's Waffle Bath Robe",
+     "asin": "B08X943G7H",
+     "image": "https://m.media-amazon.com/images/I/71pLOAI8VrL._AC_SY300_SX300_QL70_ML2_.jpg",
+     "price": "$26.40"
+    },
+    {
+     "name": "Men's Cotton Flannel Pajama Pants",
+     "asin": "B07BJKKD2T",
+     "image": "https://m.media-amazon.com/images/I/71plWyheXrL._AC_SY300_SX300_QL70_ML2_.jpg",
+     "price": "$17.10"
+    },
+    {
+     "name": "Matching Holiday Family Pajamas",
+     "asin": "B0F2M87GHV",
+     "image": "https://m.media-amazon.com/images/I/415jmEsvR2L._AC_SY300_SX300_QL70_ML2_.jpg",
+     "price": "$23.90"
+    }
+   ]
   }
  ]
 }
