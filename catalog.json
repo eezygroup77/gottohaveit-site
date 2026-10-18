@@ -563,6 +563,65 @@
           "price": "$299.00"
         }
       ]
+    },
+    {
+      "number": 17,
+      "title": "Lighting Things You Didn't Know Existed",
+      "category": "Home",
+      "products": [
+        {
+          "name": "Magnetic Motion Night Light",
+          "asin": "B07MHVTHQS",
+          "image": "https://m.media-amazon.com/images/I/51p2+W-hozL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$17.99"
+        },
+        {
+          "name": "LED Shower Head (Temperature Color)",
+          "asin": "B09LXN9TMM",
+          "image": "https://m.media-amazon.com/images/I/81iG-Ed1xFL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$19.99"
+        },
+        {
+          "name": "Neck Reading Light",
+          "asin": "B076CZ1VP6",
+          "image": "https://m.media-amazon.com/images/I/61bhnXPGc0L._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$14.99"
+        },
+        {
+          "name": "Sunset Lamp Projector",
+          "asin": "B09D9F795R",
+          "image": "https://m.media-amazon.com/images/I/81WHyezjSgL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$16.68"
+        },
+        {
+          "name": "Wooden Folding Book Lamp",
+          "asin": "B0D4Y3N1RT",
+          "image": "https://m.media-amazon.com/images/I/719MdjUaieL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$17.99"
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "title": "Luxe or Less · $95 Coach vs $29.99 Mulberry Silk Scarf",
+      "category": "Luxe or Less",
+      "products": [
+        {
+          "name": "Coach Horse & Carriage Silk Square",
+          "asin": "B0D7N6QXXG",
+          "image": "https://m.media-amazon.com/images/I/619M2R2aQVL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$95.00",
+          "tier": "luxe"
+        },
+        {
+          "name": "ANDANTINO Mulberry Silk Square",
+          "asin": "B0D7VS277J",
+          "image": "https://m.media-amazon.com/images/I/71UqXo2KzEL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$29.99",
+          "tier": "less"
+        }
+      ],
+      "content_id": "3V-LUXE-20261017-003"
     }
   ]
 }
