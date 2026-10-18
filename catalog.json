@@ -489,6 +489,43 @@
      "price": "$89.89"
     }
    ]
+  },
+  {
+   "number": 15,
+   "title": "Kitchen Must-Haves",
+   "category": "Kitchen",
+   "products": [
+    {
+     "name": "14-Piece Knife Set with Block",
+     "asin": "B00R3Z49G6",
+     "image": "https://m.media-amazon.com/images/I/810IjwSOWZL._AC_SY300_SX300_QL70_ML2_.jpg",
+     "price": "$24.99"
+    },
+    {
+     "name": "Silicone Baking Mat",
+     "asin": "B0725GYNG6",
+     "image": "https://m.media-amazon.com/images/I/81IC5+bWDgL._AC_SY300_SX300_QL70_ML2_.jpg",
+     "price": "$13.24"
+    },
+    {
+     "name": "Glass Electric Kettle",
+     "asin": "B07JZQ1MXT",
+     "image": "https://m.media-amazon.com/images/I/71FcafxVweL._AC_SY300_SX300_QL70_ML2_.jpg",
+     "price": "$31.23"
+    },
+    {
+     "name": "Digital Kitchen Scale",
+     "asin": "B06X9NQ8GX",
+     "image": "https://m.media-amazon.com/images/I/71tYOpMy6DL._AC_SY300_SX300_QL70_ML2_.jpg",
+     "price": "$11.14"
+    },
+    {
+     "name": "Enameled Cast Iron Dutch Oven",
+     "asin": "B073Q9WV8S",
+     "image": "https://m.media-amazon.com/images/I/61nSQ1WYEHL._AC_SY300_SX300_QL70_ML2_.jpg",
+     "price": "$49.99"
+    }
+   ]
   }
  ]
 }
