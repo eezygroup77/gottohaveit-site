@@ -622,6 +622,43 @@
         }
       ],
       "content_id": "3V-LUXE-20261017-003"
+    },
+    {
+      "number": 19,
+      "title": "Laundry Things You Didn't Know Existed",
+      "category": "Home",
+      "products": [
+        {
+          "name": "ChomChom Roller Pet Hair Remover",
+          "asin": "B00BAGTNAQ",
+          "image": "https://m.media-amazon.com/images/I/71mmJsbMGZL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$24.99"
+        },
+        {
+          "name": "Laundry Turtle Collapsible Laundry Basket",
+          "asin": "B09M7PJ9J5",
+          "image": "https://m.media-amazon.com/images/I/71b4z0nLiQL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$29.99"
+        },
+        {
+          "name": "BoxLegend V3 Shirt Folding Board",
+          "asin": "B077XV9VZG",
+          "image": "https://m.media-amazon.com/images/I/714XVjTo+rL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$16.99"
+        },
+        {
+          "name": "BEAUTURAL Mini Travel Steam Iron",
+          "asin": "B0D9PZDF73",
+          "image": "https://m.media-amazon.com/images/I/6119CrElL1L._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$24.97"
+        },
+        {
+          "name": "VIKAQI Wall Mounted Foldable Drying Rack",
+          "asin": "B0DGF3WJ76",
+          "image": "https://m.media-amazon.com/images/I/71eS7P5APwL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$51.98"
+        }
+      ]
     }
   ]
 }
