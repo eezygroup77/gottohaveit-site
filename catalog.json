@@ -659,6 +659,65 @@
           "price": "$51.98"
         }
       ]
+    },
+    {
+      "number": 20,
+      "title": "Amazon Home Office Must-Haves",
+      "category": "Home Office",
+      "products": [
+        {
+          "name": "Adjustable Monitor Stand Riser",
+          "asin": "B00X4SCCFG",
+          "image": "https://m.media-amazon.com/images/I/51e81e4tJ1L._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$21.59"
+        },
+        {
+          "name": "Mesh Desk Organizer with Drawer",
+          "asin": "B08VPFB5G3",
+          "image": "https://m.media-amazon.com/images/I/91pShb9GtvS._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$9.44"
+        },
+        {
+          "name": "Gel Wrist Support Mouse Pad",
+          "asin": "B06X3W3TM4",
+          "image": "https://m.media-amazon.com/images/I/71mbxPIMl1S._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$9.71"
+        },
+        {
+          "name": "Magnetic Dry Erase Whiteboard",
+          "asin": "B07K6D2N1C",
+          "image": "https://m.media-amazon.com/images/I/51FSka0QnRL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$24.68"
+        },
+        {
+          "name": "Padded Office Desk Chair",
+          "asin": "B00IFHPVEU",
+          "image": "https://m.media-amazon.com/images/I/71GvW1qrUYL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$99.64"
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "title": "Luxe or Less · $675 Linda Farrow vs $13.49 Cat-Eye Sunglasses",
+      "content_id": "3V-LUXE-20261018-001",
+      "category": "Luxe or Less",
+      "products": [
+        {
+          "name": "Joopin Oversized Cat Eye Sunglasses",
+          "asin": "B01LWEFP8P",
+          "image": "https://m.media-amazon.com/images/I/61U8rg8O7LL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "tier": "less",
+          "price": "$13.49"
+        },
+        {
+          "name": "Linda Farrow Lucy Cat Eye Sunglasses",
+          "asin": "B09BK8XGMD",
+          "image": "https://m.media-amazon.com/images/I/51Q4x+3pCYL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "tier": "luxe",
+          "price": "$675"
+        }
+      ]
     }
   ]
 }
