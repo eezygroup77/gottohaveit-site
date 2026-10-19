@@ -718,6 +718,102 @@
           "price": "$675"
         }
       ]
+    },
+    {
+      "number": 22,
+      "title": "Kid Things You Didn't Know Existed",
+      "category": "Kids",
+      "products": [
+        {
+          "name": "Light-Up Bath Bubble Machine",
+          "asin": "B0F38DHSKT",
+          "image": "https://m.media-amazon.com/images/I/71IkwW7qmTL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$22.99"
+        },
+        {
+          "name": "Over-the-Door Basketball Hoop Laundry Hamper",
+          "asin": "B08XPVJ6HB",
+          "image": "https://m.media-amazon.com/images/I/71YHFgSdJAL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$42.95"
+        },
+        {
+          "name": "Lay-n-Go Play Mat Toy Storage Bag",
+          "asin": "B009GCJVZI",
+          "image": "https://m.media-amazon.com/images/I/71AymdtbxlL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$19.95"
+        },
+        {
+          "name": "Wedopro Water Doodle Mat",
+          "asin": "B07VSW8W1T",
+          "image": "https://m.media-amazon.com/images/I/81S1tq0NM+L._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$17.99"
+        },
+        {
+          "name": "PLAY Bug Vacuum for Kids",
+          "asin": "B0BXCHJST9",
+          "image": "https://m.media-amazon.com/images/I/71dgRS8iWqL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$16.99"
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "title": "Luxe or Less · $195 N.Peal vs $29.99 Cashmere Beanie",
+      "content_id": "3V-LUXE-20261019-001",
+      "category": "Luxe or Less",
+      "products": [
+        {
+          "name": "N.Peal Chunky Ribbed Cashmere Hat",
+          "asin": "B0HJHWQ44L",
+          "image": "https://m.media-amazon.com/images/I/81xdnDqqCaL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "tier": "luxe",
+          "price": "$195"
+        },
+        {
+          "name": "Lallier 100% Cashmere Ribbed Cuffed Beanie",
+          "asin": "B0BC18L2GR",
+          "image": "https://m.media-amazon.com/images/I/71Vx-lTvPDL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "tier": "less",
+          "price": "$29.99"
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "title": "Amazon Deals Before Black Friday — Ranked",
+      "category": "Deals",
+      "products": [
+        {
+          "name": "Marshall Acton III Bluetooth Speaker (Cream)",
+          "asin": "B0BBYF2SXX",
+          "image": "https://m.media-amazon.com/images/I/910OcKeMw1L._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$189.99"
+        },
+        {
+          "name": "Liene M100 4x6 Photo Printer",
+          "asin": "B09XHYNHB2",
+          "image": "https://m.media-amazon.com/images/I/71OoBK-vJLL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$159.99"
+        },
+        {
+          "name": "JBL Tune Flex Noise-Cancelling Earbuds",
+          "asin": "B0C1QNRGHC",
+          "image": "https://m.media-amazon.com/images/I/61joErBxERL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$49.95"
+        },
+        {
+          "name": "HAPPRUN Native 1080p Bluetooth Projector",
+          "asin": "B0B28G5Y4R",
+          "image": "https://m.media-amazon.com/images/I/816CUoLVaCL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$59.99"
+        },
+        {
+          "name": "Bedsure Heated Throw Blanket",
+          "asin": "B0BZR6YBHK",
+          "image": "https://m.media-amazon.com/images/I/81qDj3mcqOL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$36.97"
+        }
+      ]
     }
   ]
 }
