@@ -947,6 +947,43 @@
           "price": "$26.99"
         }
       ]
+    },
+    {
+      "number": 29,
+      "title": "Lamps You'll Actually Want — Ranked",
+      "category": "Gifts",
+      "products": [
+        {
+          "name": "Fire-Breathing Dragon Bookshelf Light",
+          "asin": "B0HMKNPKVB",
+          "image": "https://m.media-amazon.com/images/I/61Vc19C6PHL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$14.99"
+        },
+        {
+          "name": "Moon Lighthouse Projector Night Light",
+          "asin": "B0F1F3SFT6",
+          "image": "https://m.media-amazon.com/images/I/619+Ejjj7mL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$17.98"
+        },
+        {
+          "name": "3D Illusion Lamp (16 colors + remote)",
+          "asin": "B0DKJVP26K",
+          "image": "https://m.media-amazon.com/images/I/81Um28gDs6L._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$17.99"
+        },
+        {
+          "name": "Lying-Flat Duck Night Light",
+          "asin": "B0BGBMZMMQ",
+          "image": "https://m.media-amazon.com/images/I/51Qz0pWd+9L._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$16.99"
+        },
+        {
+          "name": "Toast Bread Night Light",
+          "asin": "B08PQNS73H",
+          "image": "https://m.media-amazon.com/images/I/51UXG263MVS._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$14.99"
+        }
+      ]
     }
   ]
 }
