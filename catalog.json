@@ -851,6 +851,102 @@
           "price": "$19.99"
         }
       ]
+    },
+    {
+      "number": 26,
+      "title": "Luxe or Less · $170 Tiziana Terenzi vs $21 Gold Glass Candle",
+      "content_id": "3V-LUXE-20261020-001",
+      "category": "Luxe or Less",
+      "products": [
+        {
+          "name": "Chloefu LAN Warm Amber Faceted Glass Candle",
+          "asin": "B0D44QXF5B",
+          "image": "https://m.media-amazon.com/images/I/81clM5HGqCL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "tier": "less",
+          "price": "$21.00"
+        },
+        {
+          "name": "Tiziana Terenzi Kirke Overdose Glass Candle",
+          "asin": "B0FRGG6M3W",
+          "image": "https://m.media-amazon.com/images/I/71gp4m9J4ZL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "tier": "luxe",
+          "price": "$170"
+        }
+      ]
+    },
+    {
+      "number": 27,
+      "title": "Mugs You'll Actually Want — Ranked",
+      "category": "Gifts",
+      "products": [
+        {
+          "name": "Mighty Mug Untippable Tumbler",
+          "asin": "B07XPD1YF9",
+          "image": "https://m.media-amazon.com/images/I/71Uz+Qk1TlL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$40.00"
+        },
+        {
+          "name": "Self-Stirring Coffee Mug",
+          "asin": "B0FR57FVM4",
+          "image": "https://m.media-amazon.com/images/I/614fkEvyRZL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$17.99"
+        },
+        {
+          "name": "Camera Lens Travel Mug",
+          "asin": "B0CLVD5CPN",
+          "image": "https://m.media-amazon.com/images/I/71Uqy6OxUoL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$17.96"
+        },
+        {
+          "name": "Hidden Duck Double-Wall Glass Mug",
+          "asin": "B086D1ZX8J",
+          "image": "https://m.media-amazon.com/images/I/61anlcJc3NL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$9.29"
+        },
+        {
+          "name": "Solar System Heat-Changing Mug",
+          "asin": "B07GVCP5W2",
+          "image": "https://m.media-amazon.com/images/I/81NdpmbOqnL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$13.99"
+        }
+      ]
+    },
+    {
+      "number": 28,
+      "title": "Sink Things You Didn't Know Existed",
+      "category": "Kitchen",
+      "products": [
+        {
+          "name": "3-in-1 Pop-Up Sink Strainer",
+          "asin": "B0D65JFRX4",
+          "image": "https://m.media-amazon.com/images/I/71pbhlDg3DL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$9.99"
+        },
+        {
+          "name": "Roll-Up Dish Drying Rack",
+          "asin": "B08196DX71",
+          "image": "https://m.media-amazon.com/images/I/61ehndF4wWL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$21.98"
+        },
+        {
+          "name": "Fast Drying Stone Faucet Mat",
+          "asin": "B0F2TDR4ZH",
+          "image": "https://m.media-amazon.com/images/I/61t6N8J5fhL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$15.99"
+        },
+        {
+          "name": "FlexiSnake Drain Weasel",
+          "asin": "B01NB0729G",
+          "image": "https://m.media-amazon.com/images/I/71gLNVlodML._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$19.99"
+        },
+        {
+          "name": "1080° Swivel Faucet Extender",
+          "asin": "B0BHVS5JBL",
+          "image": "https://m.media-amazon.com/images/I/71IoQ9C4l8L._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$26.99"
+        }
+      ]
     }
   ]
 }
