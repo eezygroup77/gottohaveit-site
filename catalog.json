@@ -814,6 +814,43 @@
           "price": "$36.97"
         }
       ]
+    },
+    {
+      "number": 25,
+      "title": "Clocks You'll Actually Want",
+      "category": "Gifts",
+      "products": [
+        {
+          "name": "Odokee Sunrise Alarm Clock & Night Light",
+          "asin": "B0DGXD6WVW",
+          "image": "https://m.media-amazon.com/images/I/81mP2pftHML._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$59.99"
+        },
+        {
+          "name": "Vintage Bicycle Flip Desk Clock",
+          "asin": "B0DKFXTNRX",
+          "image": "https://m.media-amazon.com/images/I/61xi44VXjAL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$35.09"
+        },
+        {
+          "name": "Bernhard Math Wall Clock 12\"",
+          "asin": "B07VF74V5K",
+          "image": "https://m.media-amazon.com/images/I/81U7uH7udiL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$19.88"
+        },
+        {
+          "name": "Silly Walk Wall Clock (Silent)",
+          "asin": "B0G1SDZQRL",
+          "image": "https://m.media-amazon.com/images/I/61+AkAEW3tL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$13.59"
+        },
+        {
+          "name": "Target Alarm Clock with Laser",
+          "asin": "B0GYJ93L1W",
+          "image": "https://m.media-amazon.com/images/I/71-O+dlqQzL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$19.99"
+        }
+      ]
     }
   ]
 }
