@@ -1021,6 +1021,65 @@
           "price": "$5.99"
         }
       ]
+    },
+    {
+      "number": 31,
+      "title": "Food Things You Didn't Know Existed",
+      "category": "Kitchen",
+      "products": [
+        {
+          "name": "Silicone Stretch Lids",
+          "asin": "B0CHZ69ZFN",
+          "image": "https://m.media-amazon.com/images/I/81CdVJk9IYL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$18.95"
+        },
+        {
+          "name": "Prepara Herb Savor Eco Herb Keeper",
+          "asin": "B00ERE2RLK",
+          "image": "https://m.media-amazon.com/images/I/71WcscLJSiL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$26.00"
+        },
+        {
+          "name": "Souper Cubes 1-Cup Freezer Trays",
+          "asin": "B07GSSR5V2",
+          "image": "https://m.media-amazon.com/images/I/717pxFuArxL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$39.99"
+        },
+        {
+          "name": "Chef Preserve Handheld Vacuum Sealer",
+          "asin": "B0D3ZBFMW6",
+          "image": "https://m.media-amazon.com/images/I/81LJk3MUi4L._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$99.00"
+        },
+        {
+          "name": "Boil-Over Spill Stopper Lid",
+          "asin": "B0796SGWS2",
+          "image": "https://m.media-amazon.com/images/I/6170D2WP8sS._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$16.99"
+        }
+      ]
+    },
+    {
+      "number": 32,
+      "title": "Luxe or Less · $1,550 Giuseppe Zanotti vs $38.99 Opera Gloves",
+      "content_id": "3V-LUXE-20261021-001",
+      "category": "Luxe or Less",
+      "products": [
+        {
+          "name": "Giuseppe Zanotti Enigme Glove",
+          "asin": "B0H8DXN3D6",
+          "image": "https://m.media-amazon.com/images/I/81QdSFCWSnL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "tier": "luxe",
+          "price": "$1,550"
+        },
+        {
+          "name": "QECEPEI Long Leather Opera Gloves",
+          "asin": "B07KVKSBW7",
+          "image": "https://m.media-amazon.com/images/I/71yV7AN2BVL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "tier": "less",
+          "price": "$38.99"
+        }
+      ]
     }
   ]
 }
