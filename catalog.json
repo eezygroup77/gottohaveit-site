@@ -984,6 +984,43 @@
           "price": "$14.99"
         }
       ]
+    },
+    {
+      "number": 30,
+      "title": "Animal Gifts You'll Actually Want — Ranked",
+      "category": "Gifts",
+      "products": [
+        {
+          "name": "Cow Desk Vacuum (Wrapables Mini Tabletop Vacuum)",
+          "asin": "B001O6SHD6",
+          "image": "https://m.media-amazon.com/images/I/71kGLF3SSgL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$18.99"
+        },
+        {
+          "name": "36\" Long Dachshund Pillow",
+          "asin": "B09VCBDD4T",
+          "image": "https://m.media-amazon.com/images/I/61nGwLLGoVL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$37.99"
+        },
+        {
+          "name": "Cat Paw Box Cutter",
+          "asin": "B0F1DLBM8T",
+          "image": "https://m.media-amazon.com/images/I/61KxequpW8L._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$16.97"
+        },
+        {
+          "name": "Squishy Animal Wrist Rest (Panda)",
+          "asin": "B0CNGLGLDF",
+          "image": "https://m.media-amazon.com/images/I/617zW4tdIyL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$7.99"
+        },
+        {
+          "name": "Snail Tea Bag Clips (10-pack)",
+          "asin": "B00RUSNLX8",
+          "image": "https://m.media-amazon.com/images/I/51aHP7EQb1L._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$5.99"
+        }
+      ]
     }
   ]
 }
