@@ -1080,6 +1080,102 @@
           "price": "$38.99"
         }
       ]
+    },
+    {
+      "number": 33,
+      "title": "Weird Gifts You'll Actually Want — Ranked",
+      "category": "Gifts",
+      "products": [
+        {
+          "name": "Handmade Squishy Hamster",
+          "asin": "B0DTJWCMWC",
+          "image": "https://m.media-amazon.com/images/I/71-Qr7CS39L._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$13.99"
+        },
+        {
+          "name": "Mini Claw Machine",
+          "asin": "B0BPR6TMPT",
+          "image": "https://m.media-amazon.com/images/I/711g45H8vxL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$54.99"
+        },
+        {
+          "name": "Kikkerland Solar Rainbow Maker",
+          "asin": "B000068UG6",
+          "image": "https://m.media-amazon.com/images/I/51m1V-pxpeL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$40.00"
+        },
+        {
+          "name": "Mystic Pickle (talking fortune teller)",
+          "asin": "B0CYKK1167",
+          "image": "https://m.media-amazon.com/images/I/8192d2+qedL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$14.99"
+        },
+        {
+          "name": "Boxing Robot Pen 2-Pack",
+          "asin": "B0CSB145YV",
+          "image": "https://m.media-amazon.com/images/I/71wHFMkrCaL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$9.99"
+        }
+      ]
+    },
+    {
+      "number": 34,
+      "title": "Cooking Things You Didn't Know Existed",
+      "category": "Kitchen",
+      "products": [
+        {
+          "name": "Snap N' Strain Clip-On Strainer",
+          "asin": "B018W9JII0",
+          "image": "https://m.media-amazon.com/images/I/81zfDGqPP4L._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$13.99"
+        },
+        {
+          "name": "PrepSolutions Microwave Bacon Grill",
+          "asin": "B00IQKES1I",
+          "image": "https://m.media-amazon.com/images/I/61VSHUI+lvL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$19.99"
+        },
+        {
+          "name": "Gravity Electric Salt & Pepper Grinder",
+          "asin": "B0DFY5TNFX",
+          "image": "https://m.media-amazon.com/images/I/71IDYaH0jUL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$19.99"
+        },
+        {
+          "name": "Newness Pineapple Corer & Slicer",
+          "asin": "B06XCXQFXM",
+          "image": "https://m.media-amazon.com/images/I/71Vvy8BmU3L._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$12.98"
+        },
+        {
+          "name": "StirMATE Automatic Pot Stirrer",
+          "asin": "B076HH4WZM",
+          "image": "https://m.media-amazon.com/images/I/61YUQzBHRpL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$89.89"
+        }
+      ]
+    },
+    {
+      "number": 35,
+      "title": "Luxe or Less · $500 MATEO vs $13.95 Gold Wave Hoops",
+      "content_id": "3V-LUXE-20261023-001",
+      "category": "Luxe or Less",
+      "products": [
+        {
+          "name": "MATEO New York Gold Wave Huggie (14K)",
+          "asin": "B0BN93C2JF",
+          "image": "https://m.media-amazon.com/images/I/517QNZpdtlL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "tier": "luxe",
+          "price": "$500"
+        },
+        {
+          "name": "PAVOI 14K Gold Plated Wavy Huggie Hoops",
+          "asin": "B0CJBZJG3K",
+          "image": "https://m.media-amazon.com/images/I/61BMVWHWCkL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "tier": "less",
+          "price": "$13.95"
+        }
+      ]
     }
   ]
 }
