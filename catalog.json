@@ -1272,6 +1272,43 @@
           "price": "$120.00"
         }
       ]
+    },
+    {
+      "number": 39,
+      "title": "Kitchen Things Going Viral Overseas",
+      "category": "Kitchen",
+      "products": [
+        {
+          "name": "Clip-On Dip Bowls 8-pack",
+          "asin": "B00VKBX4UQ",
+          "image": "https://m.media-amazon.com/images/I/61VKB8sDn+L._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$9.99"
+        },
+        {
+          "name": "One-Touch Glass Spice Jars with Spoons",
+          "asin": "B0B59YX28L",
+          "image": "https://m.media-amazon.com/images/I/51h94YRK8CL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$19.00"
+        },
+        {
+          "name": "Stand-Up Silicone Ladle",
+          "asin": "B0CKGXMBFR",
+          "image": "https://m.media-amazon.com/images/I/61ng+Vdz6FL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$30.00"
+        },
+        {
+          "name": "Manual Bread Slicer",
+          "asin": "B0F9Y66WKT",
+          "image": "https://m.media-amazon.com/images/I/71PbeY7oCgL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$47.23"
+        },
+        {
+          "name": "Lever Juice Press",
+          "asin": "B0FY5B75K2",
+          "image": "https://m.media-amazon.com/images/I/71k4bvb1vuL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$39.99"
+        }
+      ]
     }
   ]
 }
