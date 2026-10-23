@@ -1176,6 +1176,102 @@
           "price": "$13.95"
         }
       ]
+    },
+    {
+      "number": 36,
+      "title": "Car Gifts You'll Actually Want — Ranked",
+      "category": "Gifts",
+      "products": [
+        {
+          "name": "Mosurr RGB Auto-Clamping Wireless Car Charger",
+          "asin": "B0BL1S9LFJ",
+          "image": "https://m.media-amazon.com/images/I/71VHpC3R8IL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$23.89"
+        },
+        {
+          "name": "Propagation Vase Vent Clip",
+          "asin": "B0BCFJKT8Z",
+          "image": "https://m.media-amazon.com/images/I/71zjvczzzFL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$16.99"
+        },
+        {
+          "name": "Cat Dashboard Decorations (set of 5)",
+          "asin": "B0DT62CQMK",
+          "image": "https://m.media-amazon.com/images/I/61DPLI6W50L._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$6.35"
+        },
+        {
+          "name": "Duck Tire Valve Caps 4-pack (glow)",
+          "asin": "B0CSP8B9JX",
+          "image": "https://m.media-amazon.com/images/I/61TvXqHhXsL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$5.99"
+        },
+        {
+          "name": "Veharvim Sun Visor Extender",
+          "asin": "B09NYDKTB7",
+          "image": "https://m.media-amazon.com/images/I/71X0xvj8HNL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$20.89"
+        }
+      ]
+    },
+    {
+      "number": 37,
+      "title": "Outdoor Things You Didn't Know Existed",
+      "category": "Home",
+      "products": [
+        {
+          "name": "Pop-Up Mesh Food Covers 6-pack",
+          "asin": "B073GKHVXR",
+          "image": "https://m.media-amazon.com/images/I/71cbs06YXiL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$13.99"
+        },
+        {
+          "name": "Picnic Table Cover + Bench Covers",
+          "asin": "B0BRN7JD86",
+          "image": "https://m.media-amazon.com/images/I/71FsisG8w5L._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$16.14"
+        },
+        {
+          "name": "BROWNTREK Pocket Blanket",
+          "asin": "B08TQ853ZH",
+          "image": "https://m.media-amazon.com/images/I/81xNVTNc0AL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$11.99"
+        },
+        {
+          "name": "LIPETY Foldable Rechargeable Fan",
+          "asin": "B0G7YJ191J",
+          "image": "https://m.media-amazon.com/images/I/71v1qNT+tFL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$33.99"
+        },
+        {
+          "name": "Grillbot Grill Cleaning Robot",
+          "asin": "B00HFDFSAC",
+          "image": "https://m.media-amazon.com/images/I/61nEpiKw-cL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$129.99"
+        }
+      ]
+    },
+    {
+      "number": 38,
+      "title": "Luxe or Less · $120 Slip vs $29.99 Silk Pillowcase",
+      "content_id": "3V-LUXE-20261024-001",
+      "category": "Luxe or Less",
+      "products": [
+        {
+          "name": "J JIMOO 22 Momme Mulberry Silk Pillowcase",
+          "asin": "B07RKMYDV2",
+          "image": "https://m.media-amazon.com/images/I/71MFOmHMdOL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "tier": "less",
+          "price": "$29.99"
+        },
+        {
+          "name": "Slip Pure Silk Queen Pillowcase",
+          "asin": "B01JZVYD6G",
+          "image": "https://m.media-amazon.com/images/I/51nY1o-bp5L._AC_SY300_SX300_QL70_ML2_.jpg",
+          "tier": "luxe",
+          "price": "$120.00"
+        }
+      ]
     }
   ]
 }
