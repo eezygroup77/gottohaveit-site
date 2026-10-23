@@ -1309,6 +1309,28 @@
           "price": "$39.99"
         }
       ]
+    },
+    {
+      "number": 40,
+      "title": "Luxe or Less · $556 Gorski vs $25.99 Mini Crossbody",
+      "content_id": "3V-LUXE-20261022-001",
+      "category": "Luxe or Less",
+      "products": [
+        {
+          "name": "Dasein Small Crossbody Evening Purse",
+          "asin": "B092QVMQ5T",
+          "image": "https://m.media-amazon.com/images/I/71FyEypSt+L._AC_SY300_SX300_QL70_ML2_.jpg",
+          "tier": "less",
+          "price": "$25.99"
+        },
+        {
+          "name": "Gorski Top Handle Leather Crossbody",
+          "asin": "B0HCZ8QPLR",
+          "image": "https://m.media-amazon.com/images/I/61Vm+njEOSL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "tier": "luxe",
+          "price": "$556"
+        }
+      ]
     }
   ]
 }
