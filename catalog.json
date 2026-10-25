@@ -1331,6 +1331,43 @@
           "price": "$556"
         }
       ]
+    },
+    {
+      "number": 41,
+      "title": "Home Things You Didn't Know Existed",
+      "category": "Home",
+      "products": [
+        {
+          "name": "Utoplike In-Drawer Knife Block",
+          "asin": "B08N48SW7H",
+          "image": "https://m.media-amazon.com/images/I/71LD7S-1NsL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$29.39"
+        },
+        {
+          "name": "Linda's Stove Gap Covers (2)",
+          "asin": "B01MT0UL8N",
+          "image": "https://m.media-amazon.com/images/I/61C3F7lnTIL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$9.99"
+        },
+        {
+          "name": "Vmaisi Hidden Magnetic Cabinet Locks (12)",
+          "asin": "B07B47PDB4",
+          "image": "https://m.media-amazon.com/images/I/71dcSv8+WpL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$28.49"
+        },
+        {
+          "name": "Handless Handle Under-Cabinet Foot Pull",
+          "asin": "B0DHVJCF5X",
+          "image": "https://m.media-amazon.com/images/I/71r9UlE-BPL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$15.20"
+        },
+        {
+          "name": "Solar Lighted Address Sign",
+          "asin": "B0CXPDFCZ3",
+          "image": "https://m.media-amazon.com/images/I/81lQJc8YEzL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$29.99"
+        }
+      ]
     }
   ]
 }
