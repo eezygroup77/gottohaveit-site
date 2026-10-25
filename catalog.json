@@ -1405,6 +1405,28 @@
           "price": "$6.99"
         }
       ]
+    },
+    {
+      "number": 43,
+      "title": "Luxe or Less · $85 EDITION vs $26.09 Black Reed Diffuser",
+      "content_id": "3V-LUXE-20261026-001",
+      "category": "Luxe or Less",
+      "products": [
+        {
+          "name": "Aroma Loft Black Reed Diffuser, Cashmere Vanilla",
+          "asin": "B0D77SPYPC",
+          "image": "https://m.media-amazon.com/images/I/61Ptoxd3uEL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "tier": "less",
+          "price": "$26.09"
+        },
+        {
+          "name": "EDITION Reed Diffuser, Black Tea, Bergamot & Cedarwood",
+          "asin": "B084BQZPL6",
+          "image": "https://m.media-amazon.com/images/I/61L29ZTvXbL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "tier": "luxe",
+          "price": "$85"
+        }
+      ]
     }
   ]
 }
