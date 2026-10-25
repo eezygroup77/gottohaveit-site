@@ -1368,6 +1368,43 @@
           "price": "$29.99"
         }
       ]
+    },
+    {
+      "number": 42,
+      "title": "Keychains You'll Actually Want — Ranked",
+      "category": "Gifts",
+      "products": [
+        {
+          "name": "Chicken Nugget Keychain",
+          "asin": "B0BBF219RX",
+          "image": "https://m.media-amazon.com/images/I/51Og-lq8ncL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$7.59"
+        },
+        {
+          "name": "Cherry Bag Charm (red & gold)",
+          "asin": "B0DSPTKVDX",
+          "image": "https://m.media-amazon.com/images/I/61eeC0j+gKL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$5.99"
+        },
+        {
+          "name": "Thumby Mini Game Console Keychain (Teal)",
+          "asin": "B0B5FDYCVJ",
+          "image": "https://m.media-amazon.com/images/I/715T9ShJK-L._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$29.95"
+        },
+        {
+          "name": "KODAK Charmera Keychain Camera (blind box)",
+          "asin": "B0FKBDT8FR",
+          "image": "https://m.media-amazon.com/images/I/71Fjmt2XkyL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$34.99"
+        },
+        {
+          "name": "World's Smallest Violin Keychain",
+          "asin": "B08FJDDDYR",
+          "image": "https://m.media-amazon.com/images/I/612stn7jikL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$6.99"
+        }
+      ]
     }
   ]
 }
