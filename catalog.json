@@ -1427,6 +1427,43 @@
           "price": "$85"
         }
       ]
+    },
+    {
+      "number": 44,
+      "title": "Water Bottles You'll Actually Want — Ranked",
+      "category": "Gifts",
+      "products": [
+        {
+          "name": "O2COOL Mist N Sip Misting Water Bottle 20oz",
+          "asin": "B07TTFQLD4",
+          "image": "https://m.media-amazon.com/images/I/61aR4iBrz-L._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$13.99"
+        },
+        {
+          "name": "aquaFrut Fruit Infuser Water Bottle 32oz",
+          "asin": "B018364XA0",
+          "image": "https://m.media-amazon.com/images/I/813Ww7s8I-L._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$14.99"
+        },
+        {
+          "name": "Water Bottle with Bluetooth Speaker (Black)",
+          "asin": "B0FTG8CWLD",
+          "image": "https://m.media-amazon.com/images/I/61vFCv7m23L._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$29.99"
+        },
+        {
+          "name": "WaterH BOOST Smart Water Bottle (Black)",
+          "asin": "B0CGV7GLFL",
+          "image": "https://m.media-amazon.com/images/I/71mmVS1Fx6L._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$46.71"
+        },
+        {
+          "name": "Dumbbell Water Bottle 2-Pack (75oz)",
+          "asin": "B0CYLHVH2M",
+          "image": "https://m.media-amazon.com/images/I/71JXu+TfvQL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$26.98"
+        }
+      ]
     }
   ]
 }
