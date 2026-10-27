@@ -1686,6 +1686,50 @@
           "price": "$26.99"
         }
       ]
+    },
+    {
+      "number": 51,
+      "title": "Luxe or Less · $90.30 Alexandre de Paris vs $8.99 Cream Claw Clip",
+      "content_id": "3V-LUXE-20261027-001",
+      "category": "Luxe or Less",
+      "products": [
+        {
+          "name": "Alexandre de Paris Les Liserai Hair Clip, Ivory/Black",
+          "asin": "B09Q9BTSWN",
+          "image": "https://m.media-amazon.com/images/I/21MNe990XRL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "tier": "luxe",
+          "price": "$90.30"
+        },
+        {
+          "name": "Vigorpace 4\" Acetate Claw Clip, Cream",
+          "asin": "B0GX9VGQYT",
+          "image": "https://m.media-amazon.com/images/I/31afwPmjy+L._AC_SY300_SX300_QL70_ML2_.jpg",
+          "tier": "less",
+          "price": "$8.99"
+        }
+      ]
+    },
+    {
+      "number": 52,
+      "title": "Luxe or Less · $1,690 Giuseppe Zanotti vs $17.90 Black Tote",
+      "content_id": "3V-LUXE-20261028-001",
+      "category": "Luxe or Less",
+      "products": [
+        {
+          "name": "HOXIS Clean Cut Pebbled Faux Leather Tote, Black",
+          "asin": "B073ZDD1Z8",
+          "image": "https://m.media-amazon.com/images/I/91quKiRSBTL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "tier": "less",
+          "price": "$17.90"
+        },
+        {
+          "name": "Giuseppe Zanotti Wagner Tote, Black",
+          "asin": "B0HN2V6XWL",
+          "image": "https://m.media-amazon.com/images/I/41IqX8Z2ZTL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "tier": "luxe",
+          "price": "$1,690"
+        }
+      ]
     }
   ]
 }
