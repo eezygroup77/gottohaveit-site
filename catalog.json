@@ -1501,6 +1501,117 @@
           "price": "$38.99"
         }
       ]
+    },
+    {
+      "number": 46,
+      "title": "Everyday Things You Didn't Know Existed",
+      "category": "Home",
+      "products": [
+        {
+          "name": "kwmobile Foldable Purse Hook for Table (2, Black)",
+          "asin": "B09GXV1KPS",
+          "image": "https://m.media-amazon.com/images/I/712MWos7TiL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$9.99"
+        },
+        {
+          "name": "GUBCUB Retractable Side Mirror Squeegee (2)",
+          "asin": "B0BWC6VP7G",
+          "image": "https://m.media-amazon.com/images/I/61CV3pAj25L._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$5.99"
+        },
+        {
+          "name": "riemot Luggage Travel Cup Holder (Grey)",
+          "asin": "B07TXCCQGP",
+          "image": "https://m.media-amazon.com/images/I/71DWCLPKJPL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$9.99"
+        },
+        {
+          "name": "BESKAR XL Shower Foot Scrubber Mat (Blue)",
+          "asin": "B08GBYWR7M",
+          "image": "https://m.media-amazon.com/images/I/81WEvNH10QS._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$16.99"
+        },
+        {
+          "name": "Fred Dragon's Breath Microwave Steam Cleaner",
+          "asin": "B0DB2GTQMZ",
+          "image": "https://m.media-amazon.com/images/I/61nMMfAGqLL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$12.99"
+        }
+      ]
+    },
+    {
+      "number": 47,
+      "title": "Garage Things You Didn't Know Existed",
+      "category": "Home",
+      "products": [
+        {
+          "name": "RAK Magnetic Wristband for Tools (10 magnets)",
+          "asin": "B01HRCU3SW",
+          "image": "https://m.media-amazon.com/images/I/91v-qotxdLL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$18.08"
+        },
+        {
+          "name": "Mop & Broom Holder Wall Mount (2 Pack)",
+          "asin": "B0CX1JKKTB",
+          "image": "https://m.media-amazon.com/images/I/71NPorFo4dL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$25.97"
+        },
+        {
+          "name": "HOTO 25-Piece Electric Screwdriver Kit",
+          "asin": "B0BLMQ8BXB",
+          "image": "https://m.media-amazon.com/images/I/711E-1W75iL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$29.99"
+        },
+        {
+          "name": "Securityman Garage Parking Aid with LED Stop Sign",
+          "asin": "B091Q46ZYW",
+          "image": "https://m.media-amazon.com/images/I/51HvHePyFcL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$39.99"
+        },
+        {
+          "name": "monTEK Swivel Bike Wall Mount (4 Pack)",
+          "asin": "B0CPYF515V",
+          "image": "https://m.media-amazon.com/images/I/81umIbtCFHL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$69.99"
+        }
+      ]
+    },
+    {
+      "number": 48,
+      "title": "Dinner Things You Didn't Know Existed",
+      "category": "Kitchen",
+      "products": [
+        {
+          "name": "Dreamfarm Scizza Pizza Scissors",
+          "asin": "B0019R74Z2",
+          "image": "https://m.media-amazon.com/images/I/71JB5i8bw4L._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$24.99"
+        },
+        {
+          "name": "OTOTO Red the Crab Spoon Holder",
+          "asin": "B07VLBVQBP",
+          "image": "https://m.media-amazon.com/images/I/61sMwj6dOCL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$14.95"
+        },
+        {
+          "name": "Nachosaurus Dinosaur Nacho Holder with Dip Bowl",
+          "asin": "B07BPBWRM1",
+          "image": "https://m.media-amazon.com/images/I/81+ytfP8Y0L._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$24.99"
+        },
+        {
+          "name": "LNNIW Food Warming Mat (26x15, Off White)",
+          "asin": "B0FG7RQXJ9",
+          "image": "https://m.media-amazon.com/images/I/71pQnAcgcYL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$49.99"
+        },
+        {
+          "name": "Delamu 20-in-1 Sushi Bazooka Kit",
+          "asin": "B089ZY5ZGP",
+          "image": "https://m.media-amazon.com/images/I/81Z-DfCFYlL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$19.78"
+        }
+      ]
     }
   ]
 }
