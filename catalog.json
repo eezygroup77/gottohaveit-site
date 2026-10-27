@@ -1730,6 +1730,28 @@
           "price": "$1,690"
         }
       ]
+    },
+    {
+      "number": 53,
+      "title": "Luxe or Less · $1,295 Frederique Constant vs $67.99 Moonphase Watch",
+      "content_id": "3V-LUXE-20261025-001",
+      "category": "Luxe or Less",
+      "products": [
+        {
+          "name": "Frederique Constant Classic Quartz Moonphase, Gold Case, Brown Leather",
+          "asin": "B0DZQB685F",
+          "image": "https://m.media-amazon.com/images/I/71LJLqCBqeL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "tier": "luxe",
+          "price": "$1,295"
+        },
+        {
+          "name": "Peugeot 14K Gold Plated Vintage Moon Phase Dress Watch",
+          "asin": "B00FEQCXRI",
+          "image": "https://m.media-amazon.com/images/I/71M-O17nmNL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "tier": "less",
+          "price": "$67.99"
+        }
+      ]
     }
   ]
 }
