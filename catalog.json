@@ -1464,6 +1464,43 @@
           "price": "$26.98"
         }
       ]
+    },
+    {
+      "number": 45,
+      "title": "Bathroom Things You'll Want",
+      "category": "Home",
+      "products": [
+        {
+          "name": "3-Color Temperature LED Faucet Light",
+          "asin": "B0721YN8SQ",
+          "image": "https://m.media-amazon.com/images/I/8108XPowlmL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$6.99"
+        },
+        {
+          "name": "SKYROKU Bear Faucet Extender (Temp Sensor)",
+          "asin": "B0D8BK739N",
+          "image": "https://m.media-amazon.com/images/I/31c35OzgdtL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$9.99"
+        },
+        {
+          "name": "Hodao Octopus Toothbrush Holder (Blue)",
+          "asin": "B0CC8LLH9P",
+          "image": "https://m.media-amazon.com/images/I/51G9aJKuFuL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$11.99"
+        },
+        {
+          "name": "Cat Paw Foaming Soap Dispenser (Black Kitty)",
+          "asin": "B0GLYK82YR",
+          "image": "https://m.media-amazon.com/images/I/61LxkarH9DL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$20.99"
+        },
+        {
+          "name": "Mame Shiba Automatic Foam Soap Dispenser",
+          "asin": "B0FMK9KN6Q",
+          "image": "https://m.media-amazon.com/images/I/61PfEi+4tiL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$38.99"
+        }
+      ]
     }
   ]
 }
