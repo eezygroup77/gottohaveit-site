@@ -1612,6 +1612,80 @@
           "price": "$19.78"
         }
       ]
+    },
+    {
+      "number": 49,
+      "title": "Umbrellas You'll Actually Want — Ranked",
+      "category": "Gifts",
+      "products": [
+        {
+          "name": "Umbrella Hat 2-Pack (Hands-Free)",
+          "asin": "B0D4DFM9JJ",
+          "image": "https://m.media-amazon.com/images/I/71NM6NU8gjL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$7.49"
+        },
+        {
+          "name": "totes Clear Bubble Dome Umbrella",
+          "asin": "B000YB7T04",
+          "image": "https://m.media-amazon.com/images/I/61c5dgMHkbL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$20.30"
+        },
+        {
+          "name": "Duck Handle Umbrella (Yellow, Auto)",
+          "asin": "B0DRPF34MS",
+          "image": "https://m.media-amazon.com/images/I/61KNRAfgpQL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$23.99"
+        },
+        {
+          "name": "Inverted Reverse Umbrella, C-Handle (Starry Sky)",
+          "asin": "B071ZRMLWB",
+          "image": "https://m.media-amazon.com/images/I/71pQ6dlJXUL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$18.89"
+        },
+        {
+          "name": "LED Light-Up Umbrella 3-Pack, Flashlight Handle",
+          "asin": "B082BFDK3F",
+          "image": "https://m.media-amazon.com/images/I/611aI+b0J5L._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$44.99"
+        }
+      ]
+    },
+    {
+      "number": 50,
+      "title": "Desk Gifts You'll Actually Want — Ranked",
+      "category": "Gifts",
+      "products": [
+        {
+          "name": "Post-it Pop-up Note Dispenser, White Cat",
+          "asin": "B00I4HV3TS",
+          "image": "https://m.media-amazon.com/images/I/614LVo96vlL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$12.88"
+        },
+        {
+          "name": "Magnetic Bull Paperclip Holder",
+          "asin": "B082FQSMMB",
+          "image": "https://m.media-amazon.com/images/I/71J9ek7JUnL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$17.95"
+        },
+        {
+          "name": "Fred Magic Sprout Mushroom Bookmarks (Set of 4)",
+          "asin": "B0BT86B5RX",
+          "image": "https://m.media-amazon.com/images/I/61diuygJGIL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$16.95"
+        },
+        {
+          "name": "LEVO G2 Deluxe Rolling Laptop Stand",
+          "asin": "B07H9CHNT7",
+          "image": "https://m.media-amazon.com/images/I/71fiX8JLkaL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$235.99"
+        },
+        {
+          "name": "Desktop Punching Bag (Black & Red)",
+          "asin": "B0GHF1BDCD",
+          "image": "https://m.media-amazon.com/images/I/71SRJohIRqL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$26.99"
+        }
+      ]
     }
   ]
 }
