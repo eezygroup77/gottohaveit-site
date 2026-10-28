@@ -1752,6 +1752,102 @@
           "price": "$67.99"
         }
       ]
+    },
+    {
+      "number": 54,
+      "title": "Charging Gadgets You'll Actually Want — Ranked",
+      "category": "Gifts",
+      "products": [
+        {
+          "name": "elago W3 Retro Apple Watch Charging Stand (White)",
+          "asin": "B01MYNE2BM",
+          "image": "https://m.media-amazon.com/images/I/61J6cXgBqaL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$14.49"
+        },
+        {
+          "name": "Gimars RGB Mouse Pad with Wireless Charging",
+          "asin": "B09Q81J77H",
+          "image": "https://m.media-amazon.com/images/I/71nt3hcRpoL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$28.96"
+        },
+        {
+          "name": "TESLYAR Wood Phone Docking Station (Bourbon Brown)",
+          "asin": "B09PNKKS78",
+          "image": "https://m.media-amazon.com/images/I/81Gv1I3orQL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$31.80"
+        },
+        {
+          "name": "iHome PowerPlant Faux Succulent Charging Station",
+          "asin": "B0D9QY8QMN",
+          "image": "https://m.media-amazon.com/images/I/81CVxgtGngL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$42.99"
+        },
+        {
+          "name": "UGREEN Uno 30W Robot Charger (Black)",
+          "asin": "B0BZHZ56M9",
+          "image": "https://m.media-amazon.com/images/I/61AfYlS-zhL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$18.97"
+        }
+      ]
+    },
+    {
+      "number": 55,
+      "title": "Tidy House Things You Didn't Know Existed",
+      "category": "Home",
+      "products": [
+        {
+          "name": "CiBiZi Shoe Slot Organizers (Clear, 10 Pack)",
+          "asin": "B0CJBVCMPD",
+          "image": "https://m.media-amazon.com/images/I/710fEM-9y8L._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$29.99"
+        },
+        {
+          "name": "Heyjar Portable Wireless Fruit & Vegetable Cleaner",
+          "asin": "B0B4KDW566",
+          "image": "https://m.media-amazon.com/images/I/71S-SpHM42L._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$26.99"
+        },
+        {
+          "name": "TEAMIX Wall Mounted Folding Table (Brown 23.6\")",
+          "asin": "B0D69GYQK2",
+          "image": "https://m.media-amazon.com/images/I/613B-QdFxpL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$39.99"
+        },
+        {
+          "name": "AHB 13 Gallon Tilt Out Trash Cabinet (White)",
+          "asin": "B0D2HSH3DZ",
+          "image": "https://m.media-amazon.com/images/I/81+4XzziS0L._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$103.99"
+        },
+        {
+          "name": "oneisall Dog Grooming Vacuum 7-in-1 (Blue)",
+          "asin": "B0BHYZV3HY",
+          "image": "https://m.media-amazon.com/images/I/71mSTr+SlzL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$79.99"
+        }
+      ]
+    },
+    {
+      "number": 56,
+      "title": "Luxe or Less · $91 Natura Bissé vs $5.59 Lip Balm",
+      "content_id": "3V-LUXE-20261029-001",
+      "category": "Luxe or Less",
+      "products": [
+        {
+          "name": "Mario Badescu Moisturizing Lip Balm 0.35 oz",
+          "asin": "B07GDL1VS2",
+          "image": "https://m.media-amazon.com/images/I/31LO2Ml68sL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "tier": "less",
+          "price": "$5.59"
+        },
+        {
+          "name": "Natura Bissé Diamond Extreme Lip Booster",
+          "asin": "B071FNV9FJ",
+          "image": "https://m.media-amazon.com/images/I/2108YskutKL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "tier": "luxe",
+          "price": "$91"
+        }
+      ]
     }
   ]
 }
