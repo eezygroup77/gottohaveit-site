@@ -1848,6 +1848,102 @@
           "price": "$91"
         }
       ]
+    },
+    {
+      "number": 57,
+      "title": "Slippers You'll Actually Want — Ranked",
+      "category": "Gifts",
+      "products": [
+        {
+          "name": "Detachable Dog Microfiber Mop Slippers (Khaki)",
+          "asin": "B07KZ5K1YT",
+          "image": "https://m.media-amazon.com/images/I/81lXoxYfGPL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$12.61"
+        },
+        {
+          "name": "welltree Shark Slides (Blue)",
+          "asin": "B0BWRVBFFP",
+          "image": "https://m.media-amazon.com/images/I/41KqOvpNNfL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$19.99"
+        },
+        {
+          "name": "Funziez! Hamburger Slippers",
+          "asin": "B079ZKR1W1",
+          "image": "https://m.media-amazon.com/images/I/71ugVHyJ3gL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$24.99"
+        },
+        {
+          "name": "Coddies Bread Loafer Slippers (Brown)",
+          "asin": "B07Y3CPJFR",
+          "image": "https://m.media-amazon.com/images/I/71iVx1nWEUL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$32.99"
+        },
+        {
+          "name": "Funziez! Duck Feet Slippers (Yellow)",
+          "asin": "B07J1GVT99",
+          "image": "https://m.media-amazon.com/images/I/61iu3CXd-mL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$29.99"
+        }
+      ]
+    },
+    {
+      "number": 58,
+      "title": "Travel Things You Didn't Know Existed",
+      "category": "Travel",
+      "products": [
+        {
+          "name": "Skyconser Silicone Bottle Covers, Leak-Proof (16 Pack)",
+          "asin": "B0C46HFQ2F",
+          "image": "https://m.media-amazon.com/images/I/710-ivxqp-L._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$8.99"
+        },
+        {
+          "name": "Click & Carry Grocery Bag Carrier Handle (Purple)",
+          "asin": "B076CSJ2TB",
+          "image": "https://m.media-amazon.com/images/I/61euft7oMsL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$13.99"
+        },
+        {
+          "name": "KLIPP Nail Clippers with Catcher",
+          "asin": "B08MY7YM7H",
+          "image": "https://m.media-amazon.com/images/I/81I8pcgt+xL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$16.98"
+        },
+        {
+          "name": "Solar Buddies Roll-On Sunscreen Applicator (Blue)",
+          "asin": "B06XBPB9T4",
+          "image": "https://m.media-amazon.com/images/I/41C-NbSR-DL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$15.98"
+        },
+        {
+          "name": "HYTRIC 700ML Collapsible Travel Electric Kettle (Blue)",
+          "asin": "B0B799S2HT",
+          "image": "https://m.media-amazon.com/images/I/71UOXWwCMlL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$32.99"
+        }
+      ]
+    },
+    {
+      "number": 59,
+      "title": "Luxe or Less · $2,600 Annoushka vs $29.90 Gold Bracelet",
+      "content_id": "3V-LUXE-20261030-001",
+      "category": "Luxe or Less",
+      "products": [
+        {
+          "name": "Annoushka Knuckle Classic Chain Bracelet, 14ct Yellow Gold",
+          "asin": "B0HGC1ZH44",
+          "image": "https://m.media-amazon.com/images/I/51HFg8IREKL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "tier": "luxe",
+          "price": "$2,600"
+        },
+        {
+          "name": "Miabella Italian 18K Gold Plated 925 Sterling Silver Paperclip Bracelet",
+          "asin": "B097N8WN44",
+          "image": "https://m.media-amazon.com/images/I/61DxwJHhI+S._AC_SY300_SX300_QL70_ML2_.jpg",
+          "tier": "less",
+          "price": "$29.90"
+        }
+      ]
     }
   ]
 }
