@@ -1944,6 +1944,102 @@
           "price": "$29.90"
         }
       ]
+    },
+    {
+      "number": 60,
+      "title": "Party Games You'll Actually Want — Ranked",
+      "category": "Gifts",
+      "products": [
+        {
+          "name": "Pass the Pigs (Winning Moves)",
+          "asin": "B00005JG3Y",
+          "image": "https://m.media-amazon.com/images/I/819hbIzLEGL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$16.99"
+        },
+        {
+          "name": "Exploding Kittens Throw Throw Burrito",
+          "asin": "B07TS96J7Q",
+          "image": "https://m.media-amazon.com/images/I/71u0LoDcOIL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$19.99"
+        },
+        {
+          "name": "Bungee Table Fast Sling Puck Game",
+          "asin": "B08FR57DS8",
+          "image": "https://m.media-amazon.com/images/I/81NKQ4CIZwL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$27.99"
+        },
+        {
+          "name": "GOTHINK Giant Tumble Tower",
+          "asin": "B0BV2MN3FW",
+          "image": "https://m.media-amazon.com/images/I/81IMCOGdCDL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$27.79"
+        },
+        {
+          "name": "Watch Ya' Mouth Ultimate Edition",
+          "asin": "B07SNVNBQ4",
+          "image": "https://m.media-amazon.com/images/I/81GF-DHjoxL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$59.99"
+        }
+      ]
+    },
+    {
+      "number": 61,
+      "title": "Pasta & Baking Things You Didn't Know Existed",
+      "category": "Kitchen",
+      "products": [
+        {
+          "name": "COOK'S CHOICE XL Original Better Breader Bowl",
+          "asin": "B000IN0KUO",
+          "image": "https://m.media-amazon.com/images/I/81th+xPsNgS._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$24.71"
+        },
+        {
+          "name": "Yorwe 2PCS Cake Slicer Leveler (Orange)",
+          "asin": "B07Q4KZ2D1",
+          "image": "https://m.media-amazon.com/images/I/61Q7LkmiH+L._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$7.99"
+        },
+        {
+          "name": "Bellemain Ravioli Mold & Press",
+          "asin": "B01C7KWFBC",
+          "image": "https://m.media-amazon.com/images/I/71Sk33yF9yL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$19.99"
+        },
+        {
+          "name": "KITCHENDAO Collapsible Pasta Drying Rack",
+          "asin": "B07XYP21S6",
+          "image": "https://m.media-amazon.com/images/I/61QkDaQOOsL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$29.99"
+        },
+        {
+          "name": "GVODE 3-in-1 Pasta Maker Attachment for Stand Mixers",
+          "asin": "B0DJQT5D6L",
+          "image": "https://m.media-amazon.com/images/I/716QnGGWL8L._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$62.99"
+        }
+      ]
+    },
+    {
+      "number": 62,
+      "title": "Luxe or Less · $148 NAADAM vs $14.99 Cashmere Scarf",
+      "content_id": "3V-LUXE-20261031-001",
+      "category": "Luxe or Less",
+      "products": [
+        {
+          "name": "PAGE ONE Women's Chunky Knit Scarf, Oat",
+          "asin": "B0DD7KQFJN",
+          "image": "https://m.media-amazon.com/images/I/81eX8n0mvBL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "tier": "less",
+          "price": "$14.99"
+        },
+        {
+          "name": "NAADAM Signature Ribbed Cashmere Scarf, Oatmeal",
+          "asin": "B0CZWTNLFQ",
+          "image": "https://m.media-amazon.com/images/I/71WmNcWzk7L._AC_SY300_SX300_QL70_ML2_.jpg",
+          "tier": "luxe",
+          "price": "$148"
+        }
+      ]
     }
   ]
 }
