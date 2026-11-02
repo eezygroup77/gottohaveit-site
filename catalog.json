@@ -2105,7 +2105,7 @@
           "name": "OXO Good Grips Quick Release Multi Cherry Pitter",
           "asin": "B08V6L7JJG",
           "image": "https://m.media-amazon.com/images/I/81c9qkXeEiL._AC_SY300_SX300_QL70_ML2_.jpg",
-          "price": "$24.00"
+          "price": "$24.95"
         },
         {
           "name": "OTOTO Gracula Garlic Crusher",
@@ -2134,6 +2134,102 @@
           "image": "https://m.media-amazon.com/images/I/712w5EcnmfL._AC_SY300_SX300_QL70_ML2_.jpg",
           "tier": "less",
           "price": "$24.97"
+        }
+      ]
+    },
+    {
+      "number": 66,
+      "title": "Holders You'll Actually Want — Ranked",
+      "category": "Gifts",
+      "products": [
+        {
+          "name": "VIPbuy Handmade Wood Carving Flamingo Glasses Holder",
+          "asin": "B07ZPTPVV5",
+          "image": "https://m.media-amazon.com/images/I/61EpHER1WIL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$9.99"
+        },
+        {
+          "name": "Balvi Hidden Cat Bookend",
+          "asin": "B09BZ3WVRG",
+          "image": "https://m.media-amazon.com/images/I/51kGREkmbpL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$32.99"
+        },
+        {
+          "name": "Spilled Wine Bottle Holder, Red & White, Set of 2",
+          "asin": "B081RML613",
+          "image": "https://m.media-amazon.com/images/I/7178D6JT-4L._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$19.99"
+        },
+        {
+          "name": "CoolGift Mart Light Up Headphone Stand",
+          "asin": "B0DGKV973D",
+          "image": "https://m.media-amazon.com/images/I/718Vr8HxLPL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$28.39"
+        },
+        {
+          "name": "Magoog Denture Drill Bit Holder + Screwdriver",
+          "asin": "B09Z1NVH4M",
+          "image": "https://m.media-amazon.com/images/I/61VrC0Ix7mL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$22.99"
+        }
+      ]
+    },
+    {
+      "number": 67,
+      "title": "Clever Things You Didn't Know Existed",
+      "category": "Home",
+      "products": [
+        {
+          "name": "EZ Outlet Electrical Outlet Extender (USB-A, USB-C, AC)",
+          "asin": "B0BMWFT69M",
+          "image": "https://m.media-amazon.com/images/I/61TZXyA+e6L._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$39.95"
+        },
+        {
+          "name": "KitchenTour Dishwasher Magnet Clean Dirty Sign",
+          "asin": "B0CW93XZXY",
+          "image": "https://m.media-amazon.com/images/I/61SMEJdILuL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$12.99"
+        },
+        {
+          "name": "ANBOXIT Bamboo Appliance Slider Sliding Tray",
+          "asin": "B0C9DHZXZG",
+          "image": "https://m.media-amazon.com/images/I/718nFGKK07L._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$22.99"
+        },
+        {
+          "name": "Rocketbook Core Reusable Smart Notebook",
+          "asin": "B07CZ37VXN",
+          "image": "https://m.media-amazon.com/images/I/71Tzdr3n39L._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$26.99"
+        },
+        {
+          "name": "KYODOLED Diversion Book Safe with Combination Lock",
+          "asin": "B07Q1BCCLK",
+          "image": "https://m.media-amazon.com/images/I/71FoQL-RHBL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$14.99"
+        }
+      ]
+    },
+    {
+      "number": 68,
+      "title": "Luxe or Less · $229.95 Smeg vs $49.99 Pink Toaster",
+      "content_id": "3V-LUXE-20261102-001",
+      "category": "Luxe or Less",
+      "products": [
+        {
+          "name": "Keenstone Retro 2-Slice Toaster, Pink",
+          "asin": "B0CFPYNCDM",
+          "image": "https://m.media-amazon.com/images/I/61zgIWFVvYL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "tier": "less",
+          "price": "$49.99"
+        },
+        {
+          "name": "SMEG TSF01 2-Slice Toaster, Pink",
+          "asin": "B010ED6D30",
+          "image": "https://m.media-amazon.com/images/I/510WAfNq-US._AC_SY300_SX300_QL70_ML2_.jpg",
+          "tier": "luxe",
+          "price": "$229.95"
         }
       ]
     }
