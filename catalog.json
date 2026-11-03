@@ -2232,6 +2232,43 @@
           "price": "$229.95"
         }
       ]
+    },
+    {
+      "number": 69,
+      "title": "Home Fixes That Feel Like Cheating",
+      "category": "Home",
+      "products": [
+        {
+          "name": "HIBAG Vacuum Storage Bags with Electric Pump",
+          "asin": "B0G2JWR3TH",
+          "image": "https://m.media-amazon.com/images/I/815K7r3vCOL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$19.99"
+        },
+        {
+          "name": "REALINN L-Shaped 2-Tier Pull-Out Under Sink Organizer",
+          "asin": "B0CFQFMC4F",
+          "image": "https://m.media-amazon.com/images/I/7190ZkFw6KL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$43.99"
+        },
+        {
+          "name": "Cerama Bryte Cooktop Cleaning Kit",
+          "asin": "B000MIWRTM",
+          "image": "https://m.media-amazon.com/images/I/71D0ZQ8d5LL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$17.78"
+        },
+        {
+          "name": "Wrapping Paper Cutter & Tape Dispenser (2-Pack)",
+          "asin": "B0F3PDZ14G",
+          "image": "https://m.media-amazon.com/images/I/81jDtIpzSqL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$22.49"
+        },
+        {
+          "name": "Electric Spin Scrubber with Long Handle",
+          "asin": "B0B7RSV894",
+          "image": "https://m.media-amazon.com/images/I/71vWgtgWNWL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$39.99"
+        }
+      ]
     }
   ]
 }
