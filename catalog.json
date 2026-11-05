@@ -2269,6 +2269,19 @@
           "price": "$39.99"
         }
       ]
+    },
+    {
+      "number": 70,
+      "title": "Bags Off the Car Floor",
+      "category": "Travel",
+      "products": [
+        {
+          "name": "CoBak Car Seat Purse Hooks, Leather & Aluminum (2-Pack, Beige)",
+          "asin": "B0DK1LR2FT",
+          "image": "https://m.media-amazon.com/images/I/81LYT4gFg2L._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$9.99"
+        }
+      ]
     }
   ]
 }
