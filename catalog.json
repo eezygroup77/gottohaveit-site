@@ -2282,6 +2282,123 @@
           "price": "$9.99"
         }
       ]
+    },
+    {
+      "number": 71,
+      "title": "Light the Page, Not the Room",
+      "category": "Home",
+      "products": [
+        {
+          "name": "Juesi Flat LED Page Book Light (White)",
+          "asin": "B09NVFTDY7",
+          "image": "https://m.media-amazon.com/images/I/81LIohzAenL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$5.80"
+        }
+      ]
+    },
+    {
+      "number": 72,
+      "title": "Stop Lifting. Start Pouring.",
+      "category": "Kitchen",
+      "products": [
+        {
+          "name": "Atalanta Upside-Down Soda Bottle Dispenser (Red)",
+          "asin": "B00VYC263M",
+          "image": "https://m.media-amazon.com/images/I/61jOgxgqCXL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$11.99"
+        }
+      ]
+    },
+    {
+      "number": 73,
+      "title": "Cable in the Way? Fold It Into a Stand",
+      "category": "Home Office",
+      "products": [
+        {
+          "name": "240W USB-C Cable with Built-In Fold-Out Phone Stand (5ft)",
+          "asin": "B0H4G9NRSJ",
+          "image": "https://m.media-amazon.com/images/I/41CuydvknIL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$7.99"
+        }
+      ]
+    },
+    {
+      "number": 74,
+      "title": "Tree Cleanup? Watch This",
+      "category": "Holiday Gifts",
+      "products": [
+        {
+          "name": "BrylaneHome 6 ft Fully Decorated Pre-Lit Pop-Up Christmas Tree",
+          "asin": "B07SK9V25X",
+          "image": "https://m.media-amazon.com/images/I/81+PRwKWLLL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$129.99"
+        }
+      ]
+    },
+    {
+      "number": 75,
+      "title": "One Screen? Think Bigger",
+      "category": "Home Office",
+      "products": [
+        {
+          "name": "AURA DISPLAYS Triple Aero Pro Max 15.6\" Portable Monitor Extender",
+          "asin": "B0FHXGLG5X",
+          "image": "https://m.media-amazon.com/images/I/61pNxjdmIIL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$599.00"
+        }
+      ]
+    },
+    {
+      "number": 76,
+      "title": "Patties Everywhere? Press, Stack, Store",
+      "category": "Kitchen",
+      "products": [
+        {
+          "name": "Hamburger Press Patty Maker Set 4-in-1 with Storage",
+          "asin": "B0D5D139NP",
+          "image": "https://m.media-amazon.com/images/I/51DTbD2TaCL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$13.99"
+        }
+      ]
+    },
+    {
+      "number": 77,
+      "title": "Counter Full? Make Room",
+      "category": "Kitchen",
+      "products": [
+        {
+          "name": "2-Tier Expandable Dish Drying Rack, Over Sink & Counter (Black)",
+          "asin": "B0G2C69KGV",
+          "image": "https://m.media-amazon.com/images/I/71jYCJk8jmL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$39.99"
+        }
+      ]
+    },
+    {
+      "number": 78,
+      "title": "Drawer Clutter? Fold It Flat",
+      "category": "Kitchen",
+      "products": [
+        {
+          "name": "Original Flat 3-in-1 Folding Magnetic Measuring Spoons",
+          "asin": "B0FLDKLXL6",
+          "image": "https://m.media-amazon.com/images/I/71jCzK7NZfL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$28.99"
+        }
+      ]
+    },
+    {
+      "number": 79,
+      "title": "Book Pile? Call a Hero",
+      "category": "Home",
+      "products": [
+        {
+          "name": "Invisible Floating Bookshelf for Wall",
+          "asin": "B014R3YB3W",
+          "image": "https://m.media-amazon.com/images/I/71CBTonJg+L._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$26.99"
+        }
+      ]
     }
   ]
 }
