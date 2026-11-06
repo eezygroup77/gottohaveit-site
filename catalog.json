@@ -2399,6 +2399,198 @@
           "price": "$26.99"
         }
       ]
+    },
+    {
+      "number": 80,
+      "title": "Living Room Things You Didn't Know Existed",
+      "category": "Home",
+      "products": [
+        {
+          "name": "Danfoxer Couch Arm Tray, Bamboo Clip-On",
+          "asin": "B0D17JGMJ2",
+          "image": "https://m.media-amazon.com/images/I/81cPsRsjplL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$19.99"
+        },
+        {
+          "name": "BOWERBIRD Clear Under Couch Blockers",
+          "asin": "B0D41CMRBN",
+          "image": "https://m.media-amazon.com/images/I/71QBc9EIWSL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$20.98"
+        },
+        {
+          "name": "Meliusly Couch Cushion Support Board (28x72)",
+          "asin": "B0DJ9SCF41",
+          "image": "https://m.media-amazon.com/images/I/81NYQvzAb0L._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$54.99"
+        },
+        {
+          "name": "TIKVITO Frameo 10.1\" WiFi Digital Picture Frame",
+          "asin": "B09GRZXCB1",
+          "image": "https://m.media-amazon.com/images/I/71QldrO3IEL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$49.98"
+        },
+        {
+          "name": "Hobestluk 3-in-1 Convertible Bean Bag Bed (Grey)",
+          "asin": "B0DGFSGM2X",
+          "image": "https://m.media-amazon.com/images/I/81jhJRsgwzL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$99.99"
+        }
+      ]
+    },
+    {
+      "number": 81,
+      "title": "Luxe or Less · $590 MATEO vs $27.95 Pearl Choker",
+      "content_id": "3V-LUXE-20261105-001",
+      "category": "Luxe or Less",
+      "products": [
+        {
+          "name": "MATEO New York 4mm Pearl Beaded Choker (14kt gold)",
+          "asin": "B08Z9XZK1D",
+          "image": "https://m.media-amazon.com/images/I/41oC1hhrYEL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "tier": "luxe",
+          "price": "$590.00"
+        },
+        {
+          "name": "PAVOI Dainty Pearl Beaded Choker, Yellow Gold 4mm",
+          "asin": "B08VGMFKQ2",
+          "image": "https://m.media-amazon.com/images/I/41XlTEYq2iS._AC_SY300_SX300_QL70_ML2_.jpg",
+          "tier": "less",
+          "price": "$27.95"
+        }
+      ]
+    },
+    {
+      "number": 82,
+      "title": "Mugs You'll Actually Want — Ranked",
+      "category": "Gifts",
+      "products": [
+        {
+          "name": "DIHOclub Frog Coffee Cup, Hidden 3D Animal Inside",
+          "asin": "B0DH7XYRXX",
+          "image": "https://m.media-amazon.com/images/I/61B48qdQWeL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$16.99"
+        },
+        {
+          "name": "Lumsburry Build-on Brick Coffee Mug",
+          "asin": "B07J66V6ZS",
+          "image": "https://m.media-amazon.com/images/I/712gLdTuXWL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$12.99"
+        },
+        {
+          "name": "Caliamary Heat Changing Mug, Funny Cat",
+          "asin": "B07K6F1WL1",
+          "image": "https://m.media-amazon.com/images/I/61lgdQ-ANeL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$14.99"
+        },
+        {
+          "name": "iKago Coffee Cup Warmer & Mug Set",
+          "asin": "B0BYTZ9Q6D",
+          "image": "https://m.media-amazon.com/images/I/61NLn1csDUL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$49.99"
+        },
+        {
+          "name": "JPart Self Stirring Coffee Mug with Temp Display, Blue",
+          "asin": "B0HFNBLTCX",
+          "image": "https://m.media-amazon.com/images/I/61b8T0vdQrL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$26.99"
+        }
+      ]
+    },
+    {
+      "number": 83,
+      "title": "Pet Things You Didn't Know Existed",
+      "category": "Home",
+      "products": [
+        {
+          "name": "Dexas MudBuster Portable Dog Paw Cleaner",
+          "asin": "B01N64DCPR",
+          "image": "https://m.media-amazon.com/images/I/713JmR3jeIL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$14.99"
+        },
+        {
+          "name": "Aquapaw Slow Treater Suction Lick Mat",
+          "asin": "B07DKNN87F",
+          "image": "https://m.media-amazon.com/images/I/71rtYO9mtJL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$13.79"
+        },
+        {
+          "name": "Veken Stainless Steel Cat Water Fountain",
+          "asin": "B0FPFZ7XFJ",
+          "image": "https://m.media-amazon.com/images/I/71QGrRi1o1L._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$27.99"
+        },
+        {
+          "name": "Furrfinity Cat Window Perch with Suction Cups",
+          "asin": "B0CSSNH9V5",
+          "image": "https://m.media-amazon.com/images/I/81pbFN53MZL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$37.95"
+        },
+        {
+          "name": "Furbo 360° Dog Camera (treat tossing)",
+          "asin": "B0BWN22T25",
+          "image": "https://m.media-amazon.com/images/I/71zfSRKnyNL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$72.00"
+        }
+      ]
+    },
+    {
+      "number": 84,
+      "title": "Luxe or Less · $139.95 Le Creuset vs $41.99 Red Baking Dishes",
+      "content_id": "3V-LUXE-20261106-001",
+      "category": "Luxe or Less",
+      "products": [
+        {
+          "name": "DOWAN Ceramic Baking Dish Set of 3, Red",
+          "asin": "B0D83ZN5TJ",
+          "image": "https://m.media-amazon.com/images/I/61Zmgmfh8fL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "tier": "less",
+          "price": "$41.99"
+        },
+        {
+          "name": "Le Creuset Stoneware Heritage Rectangular Baking Dish 3 pc, Cerise",
+          "asin": "B0BTFDN8LC",
+          "image": "https://m.media-amazon.com/images/I/61556Mbs7OL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "tier": "luxe",
+          "price": "$139.95"
+        }
+      ]
+    },
+    {
+      "number": 85,
+      "title": "Plant Gifts You'll Actually Want — Ranked",
+      "category": "Gifts",
+      "products": [
+        {
+          "name": "Adabocute Glass Plant Watering Globes, Bird Shape",
+          "asin": "B07QV3S22P",
+          "image": "https://m.media-amazon.com/images/I/61Z+A-+ybhL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$19.97"
+        },
+        {
+          "name": "Chia Pet Classic Llama Terracotta Planter",
+          "asin": "B07XFYQ3C9",
+          "image": "https://m.media-amazon.com/images/I/81ocDnPDdoL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$19.19"
+        },
+        {
+          "name": "Entlityful Stained Glass Moon Sleeping Cat Planter",
+          "asin": "B0CK1BFRSJ",
+          "image": "https://m.media-amazon.com/images/I/71+wpjc1fUL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$27.59"
+        },
+        {
+          "name": "UMESONG Swing Face Planter Pot",
+          "asin": "B0C5DBZXW7",
+          "image": "https://m.media-amazon.com/images/I/71rVYy6WdZL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$14.99"
+        },
+        {
+          "name": "GUIYING Magnetic Levitating Flower Pot, Black",
+          "asin": "B09WZ5DNZB",
+          "image": "https://m.media-amazon.com/images/I/61tu4iGzrqL._AC_SY300_SX300_QL70_ML2_.jpg",
+          "price": "$59.00"
+        }
+      ]
     }
   ]
 }
